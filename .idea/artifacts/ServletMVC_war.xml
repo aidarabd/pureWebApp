@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ServletMVC:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ServletMVC.war">
+      <element id="artifact" artifact-name="ServletMVC:war exploded" />
+    </root>
+  </artifact>
+</component>
